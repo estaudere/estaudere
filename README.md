@@ -1,4 +1,4 @@
-### <div align="center">i'm neha desaraju.</div>
+### <div align="center">i'm neha.</div>
 
 Hi! I'm a student based in Dallas, TX. Connect with me!
 [Website](https://estaudere.github.io) | [Twitter](https://twitter.com/nehadesaraju)
