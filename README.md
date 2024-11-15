@@ -4,6 +4,6 @@
 
 
 <div align="center">
-  Hi! I'm a computer science undergrad based in Austin, TX.<br>
-  <a href="https://estaudere.github.io">Website</a> | <a href="https://linkedin.com/in/nehadesaraju">LinkedIn</a> | <a href="https://medium.com/@nehadesaraju">Medium</a>
+  startup founder in san francisco, ca.<br>
+  <a href="https://nehadesaraju.com">more about me</a>
 </div>
